@@ -1,0 +1,11 @@
+D:\UFU\IC\Trabalho 1\Percptron_2\Percpetron\Percpetron\bin\Debug\netcoreapp2.0\Percpetron.deps.json
+D:\UFU\IC\Trabalho 1\Percptron_2\Percpetron\Percpetron\bin\Debug\netcoreapp2.0\Percpetron.runtimeconfig.json
+D:\UFU\IC\Trabalho 1\Percptron_2\Percpetron\Percpetron\bin\Debug\netcoreapp2.0\Percpetron.runtimeconfig.dev.json
+D:\UFU\IC\Trabalho 1\Percptron_2\Percpetron\Percpetron\bin\Debug\netcoreapp2.0\Percpetron.dll
+D:\UFU\IC\Trabalho 1\Percptron_2\Percpetron\Percpetron\bin\Debug\netcoreapp2.0\Percpetron.pdb
+D:\UFU\IC\Trabalho 1\Percptron_2\Percpetron\Percpetron\obj\Debug\netcoreapp2.0\Percpetron.csprojResolveAssemblyReference.cache
+D:\UFU\IC\Trabalho 1\Percptron_2\Percpetron\Percpetron\obj\Debug\netcoreapp2.0\Percpetron.csproj.CoreCompileInputs.cache
+D:\UFU\IC\Trabalho 1\Percptron_2\Percpetron\Percpetron\obj\Debug\netcoreapp2.0\Percpetron.AssemblyInfoInputs.cache
+D:\UFU\IC\Trabalho 1\Percptron_2\Percpetron\Percpetron\obj\Debug\netcoreapp2.0\Percpetron.AssemblyInfo.cs
+D:\UFU\IC\Trabalho 1\Percptron_2\Percpetron\Percpetron\obj\Debug\netcoreapp2.0\Percpetron.dll
+D:\UFU\IC\Trabalho 1\Percptron_2\Percpetron\Percpetron\obj\Debug\netcoreapp2.0\Percpetron.pdb
